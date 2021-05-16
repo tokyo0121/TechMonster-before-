@@ -2,7 +2,7 @@
 //  BattleViewController.swift
 //  TechMonster
 //
-//  Created by 井ケ田沙紀 on 2021/05/12.
+//  Created by 井ケ田沙紀 on 2021/05/16.
 //
 import UIKit
 
